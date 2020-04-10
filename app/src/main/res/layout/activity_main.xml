@@ -45,6 +45,7 @@
         android:id="@+id/tvInfo"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
+        android:textSize="15dp"
         android:layout_marginEnd="148dp"
         android:text="No of incorrect attempts: "
         app:layout_constraintBottom_toBottomOf="parent"
