@@ -3,6 +3,8 @@ package com.example.myapplication;
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
+import android.graphics.Color;
+import android.widget.TextView;
 
 public class SecondActivity extends AppCompatActivity {
 private TextView textView;
